@@ -16,7 +16,7 @@ You can only use this with chrome because it's the most commonly used browser an
 Step 1.
 you'll need these.
 
-- da file (ofc)
+- da file (BlockPlayersOnSteamv1.zip)
   
 - [Chrome](https://www.google.com/chrome/dr/download/?brand=CHBD&ds_kid=43700075934933222&gad_source=1&gclid=Cj0KCQiA2oW-BhC2ARIsADSIAWqqpE1Fb-gC79dgdWsxYgvFG_fC9AI4WKiuUcRJO_7aq9OMrHauoWMaAiTSEALw_wcB&gclsrc=aw.ds)
 
