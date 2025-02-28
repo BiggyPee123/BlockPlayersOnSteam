@@ -19,6 +19,7 @@ you'll need these.
 - da file (ofc)
   
 - [Chrome](https://www.google.com/chrome/dr/download/?brand=CHBD&ds_kid=43700075934933222&gad_source=1&gclid=Cj0KCQiA2oW-BhC2ARIsADSIAWqqpE1Fb-gC79dgdWsxYgvFG_fC9AI4WKiuUcRJO_7aq9OMrHauoWMaAiTSEALw_wcB&gclsrc=aw.ds)
+
 Step 2.
 
 update usernames.txt (located in BlockPlayersOnSteam\V1.0\_internal) to include links to the users you wanna block each on seperate lines. (use the pfps in the text file as reference.)
