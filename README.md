@@ -1,7 +1,7 @@
 
 # BlockPlayersOnSteam
 
-Block players from a list on steam, using selenium. Not well made, not done...yeah.
+Block players from a list on steam, using selenium.
 
 You can only use this with chrome because it's the most commonly used browser and I made it for that browser in mind
 
